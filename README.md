@@ -1,1 +1,1 @@
-It contains Python Flask code written for web application to predict road accidents.
+Python Flask code and R code developed for web application to predict road accidents.
