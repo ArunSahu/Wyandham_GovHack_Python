@@ -1,1 +1,1 @@
-# Wyandham_GovHack_Python
+It contains Python Flask code written for web application to predict road accidents.
